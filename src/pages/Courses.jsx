@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const Courses = () => {
   return (
     <div>
-      
+      courses
     </div>
   )
 }
 
-export default App
+export default Courses
